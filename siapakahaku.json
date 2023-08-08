@@ -1,0 +1,86 @@
+[
+    {
+      pertanyaan: "Kamu memakanku mulai dari merah, tapi berhenti saat hijau. Siapa aku?",
+      jawaban: "semangka"
+    },
+  {
+    pertanyaan: "Aku tinggi ketika masih muda, dan pendek ketika sudah tua. Siapa aku?",
+    jawaban: "lilin"
+  },
+  {
+    pertanyaan: "Aku memiliki kepala dan ekor yang tidak pernah bertemu. Akan menyenangkan jika kamu memiliku dalam jumlah banyak. Siapa aku?"
+    jawaban: "koin"
+  },
+  {
+    pertanyaan: "Aku sering membantu banyak orang dari ujung kepala sampai ujung kaki. Semakin aku bekerja, semakin kecil saya tubuhku. Siapa aku?",
+    jawaban: "sabun"
+  },
+  {
+    pertanyaan: "Aku bisa terbang tapi tidak punya sayap. Aku bisa menangis tapi tidak punya mata. Ke mana pun aku pergi, bayangan selalu mengikutiku. Siapa aku?",
+    jawaban: "awan"
+  },
+  {
+    pertanyaan: "Aku bercukur setiap hari, tetapi janggutku tetap sama. Siapa aku?",
+    jawaban: "Tukang cukur"
+  },
+  {
+    pertanyaan: "Aku memiliki cabang, tetapi tidak punya buah, batang atau daun. Siapa aku?",
+    jawaban: "bank"
+  },
+  {
+   pertanyaan:"Aku adalah instrumen yang menghasilkan suara, namun, bukan sesuatu yang bisa dimainkan. Siapa aku?",
+   jawaban: "suara"
+  },
+  {
+    pertanyaan:"Semakin banyak yang Anda ambil, semakin banyak yang Anda tinggalkan. Siapa aku?",
+    jawaban: "langkah kaki"
+  },
+  {
+    pertanyaan:"Jika kamu memilikiku, kamu ingin membagiku. Jika kamu membagiku dengan yang lain, kamu akan kehilangan diriku. Siapa aku?",
+    jawaban: "rahasia"
+  },
+  {
+    pertanyaan: "Aku mengikuti musepanjang waktu dan meniru setiap gerakanmu, tetapi kamu tidak dapat menyentuh atau menangkapku. Siapa aku?",
+    jawaban: "bayangan"
+  },
+  {
+    pertanyaan: "Aku selalu di dalam dirimu. Jika aku mengelilingimu, aku bisa membunuhmu. Aku ini apa?",
+    jawaban: "air"
+  },
+  {
+    pertanyaan: "Hidupku bisa diukur dalam hitungan jam, aku membantu dengan mengorbankan diri. Jika tipis, aku cepat. Gendut, aku lambat. Dan angin adalah musuhku. Siapa aku?",
+    jawaban: "lilin"
+  },
+  {
+    pertanyaan: "Orang membeliku untuk makan, tetapi tidak pernah memakanku. Siapa aku?",
+    jawaban: "piring"
+  },
+  {
+    pertanyaan: "Orang-orang membuatku, menyimpanku, menukarku, dan menambahkanku. Siapa aku?",
+    jawaban: "uang"
+  },
+  {
+    pertanyaan: "Semakin banyak yang kamu ambil, semakin aku membesar. Siapa aku?",
+    jawaban: "lubang"
+  },
+  {
+    pertanyaan: "Aku selalu ada di bulan Desember, tetapi tidak di bulan lainnya, tapi aku bukan hari libur. Siapa aku?",
+    jawaban: "huruf d"
+  },
+  {
+    pertanyaan: "Kamu akan menemukanku di pertengahan Maret dan April tapi tidak ada di awal atau akhir bulan. Siapa aku?",
+    jawaban: "huruf r"
+  },
+  {
+    pertanyaan: "Aku memiliki danau tanpa air, gunung tanpa batu, dan kota tanpa bangunan. Siapa aku?",
+    jawaban: "peta"
+  },
+  {
+    pertanyaan: "Aku seringan bulu, namun tidak ada yang bisa menahannya untuk waktu yang lama. Siapa aku?",
+    jawaban: "nafas"
+  },
+  {
+    pertanyaan: "Kamu mendengarku sebelumnya, dan sekali lagi hingga beberapa kali. Setelah itu, aku mati, sampai kamu memanggilku lagi. Siapa aku?",
+    jawaban: "gema"
+  }
+]
